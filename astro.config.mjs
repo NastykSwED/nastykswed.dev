@@ -18,9 +18,5 @@ export default defineConfig({
 		}),
 		svelte(),
 	],
-	adapter: vercel({
-		webAnalytics: {
-			enabled: true,
-		},
-	}),
+	adapter: vercel(),
 });
