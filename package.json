@@ -1,0 +1,40 @@
+{
+	"name": "nastykswed.dev",
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"astro": "astro",
+		"build": "astro build",
+		"dev": "astro dev",
+		"prettier": "prettier --check 'src/**' --no-error-on-unmatched-pattern",
+		"prettier:fix": "prettier --write 'src/**' --no-error-on-unmatched-pattern",
+		"preview": "astro preview"
+	},
+	"dependencies": {
+		"@astrojs/mdx": "4.0.2",
+		"@astrojs/rss": "4.0.10",
+		"@astrojs/sitemap": "3.2.1",
+		"@astrojs/svelte": "7.0.1",
+		"@astrojs/tailwind": "5.1.3",
+		"@astrojs/vercel": "8.0.1",
+		"@fontsource/inter": "5.1.0",
+		"astro": "5.0.5",
+		"clsx": "2.1.1",
+		"lucide-svelte": "0.468.0",
+		"mode-watcher": "0.5.0",
+		"svelte": "5.12.0",
+		"tailwind-merge": "2.5.5",
+		"tailwind-variants": "0.3.0"
+	},
+	"devDependencies": {
+		"@ianvs/prettier-plugin-sort-imports": "4.4.0",
+		"bits-ui": "0.21.16",
+		"prettier": "3.4.2",
+		"prettier-plugin-astro": "0.14.1",
+		"prettier-plugin-pkg": "0.18.1",
+		"prettier-plugin-svelte": "3.3.2",
+		"prettier-plugin-tailwindcss": "0.6.9",
+		"tailwindcss": "3.4.16",
+		"typescript": "5.7.2"
+	}
+}

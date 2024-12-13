@@ -1,0 +1,36 @@
+# Build or Configuration Folders
+build
+coverage
+dist
+.out
+.vercel
+.cache
+.nyc_output
+.tmp
+**/node_modules
+
+# Version Control Tools
+**/.git
+**/.svn
+**/.hg
+
+# Tools and Configurations
+**/.yarn/**
+**/.pnp.*
+**/.turbo
+*.lock
+*.log
+
+# Specific Files and Folders
+pnpm-lock.yaml
+.gitignore
+.npmignore
+.prettierignore
+.DS_Store
+.eslintignore
+
+# Nx cache
+/.nx/cache
+
+# Generated Types
+.astro/

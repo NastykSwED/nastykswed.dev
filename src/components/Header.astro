@@ -1,0 +1,24 @@
+---
+import { GithubIcon } from 'lucide-svelte';
+
+import { GITHUB_URL, SITE_TITLE } from '../consts';
+import ModeToggle from './ModeToggle.svelte';
+import SocialLink from './SocialLink.astro';
+---
+
+<header class='sticky top-0 z-50'>
+	<nav
+		class='container mb-1 flex w-full max-w-4xl items-center justify-between py-4 backdrop-blur-md'
+	>
+		<a
+			href='/'
+			class='text-md flex items-center space-x-2 font-medium tracking-tight opacity-80 transition-opacity duration-150 hover:opacity-100'
+		>
+			<span>{SITE_TITLE}</span>
+		</a>
+		<div class='flex items-center space-x-1'>
+			<SocialLink title='GitHub' href={GITHUB_URL} icon={GithubIcon} />
+			<ModeToggle client:load />
+		</div>
+	</nav>
+</header>

@@ -1,0 +1,22 @@
+---
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import MainLayout from '../layouts/Main.astro';
+---
+
+<MainLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+	<div class='container max-w-4xl flex-1'>
+		<div class='grid items-center gap-14 py-4 md:py-4'>
+			<section data-animate data-animate-speed='slow'>
+				<article class='py-4'>
+					<p class='leading-loose dark:text-neutral-400'>
+						I'm <span class='font-bold tracking-tight dark:text-primary'>
+							Ronald Torres
+						</span>, a fullstack developer from Valencia with +2 years of
+						experience. I'm passionate about creating intuitive frontend
+						experiences while mastering backend and database design.
+					</p>
+				</article>
+			</section>
+		</div>
+	</div>
+</MainLayout>
