@@ -1,9 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 128 128">
-    <path d="M50.4 78.5a75.1 75.1 0 0 0-28.5 6.9l24.2-65.7c.7-2 1.9-3.2 3.4-3.2h29c1.5 0 2.7 1.2 3.4 3.2l24.2 65.7s-11.6-7-28.5-7L67 45.5c-.4-1.7-1.6-2.8-2.9-2.8-1.3 0-2.5 1.1-2.9 2.7L50.4 78.5Zm-1.1 28.2Zm-4.2-20.2c-2 6.6-.6 15.8 4.2 20.2a17.5 17.5 0 0 1 .2-.7 5.5 5.5 0 0 1 5.7-4.5c2.8.1 4.3 1.5 4.7 4.7.2 1.1.2 2.3.2 3.5v.4c0 2.7.7 5.2 2.2 7.4a13 13 0 0 0 5.7 4.9v-.3l-.2-.3c-1.8-5.6-.5-9.5 4.4-12.8l1.5-1a73 73 0 0 0 3.2-2.2 16 16 0 0 0 6.8-11.4c.3-2 .1-4-.6-6l-.8.6-1.6 1a37 37 0 0 1-22.4 2.7c-5-.7-9.7-2-13.2-6.2Z" />
-    <style>
-        path { fill: #000; }
-        @media (prefers-color-scheme: dark) {
-            path { fill: #FFF; }
-        }
-    </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="1024.000000pt"
+   height="1024.000000pt"
+   viewBox="0 0 1024.000000 1024.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg85"
+   sodipodi:docname="__menuloom-rounded-app-icon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:export-filename="..\..\..\Desktop\favicon-16x16.svg"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs85" />
+  <sodipodi:namedview
+     id="namedview85"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="0.42956543"
+     inkscape:cx="602.93492"
+     inkscape:cy="1032.4388"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg85" />
+  <path
+     d="M 267.67079,0.40462664 C 213.36156,1.3943846 172.16572,7.4566514 143.34101,18.591441 67.506031,47.913022 17.402985,111.87614 5.5267068,194.3972 0.70197029,227.92526 0.70197029,227.18292 0.20712537,493.799 -0.41143071,792.58218 -0.16400821,805.32531 8.4957763,846.89516 20.124632,902.32159 53.031817,951.8095 98.681258,982.36828 c 37.484512,24.99142 77.072092,36.49722 138.309152,40.33272 28.82472,1.732 523.17477,1.732 550.2675,0 51.34018,-3.3405 79.05147,-9.6502 111.34013,-25.23892 61.11335,-29.69274 102.06176,-82.52107 116.78326,-150.44322 8.7837,-40.82752 9.031,-53.57065 8.4125,-353.21986 -0.4949,-271.19369 -0.4949,-267.4821 -5.9381,-302.37107 C 1005.1134,109.7729 955.75261,47.665582 880.65991,18.591441 852.70117,7.8278098 819.42285,2.6315809 768.08268,0.77578589 744.20642,0.03346742 307.01095,-0.33769184 267.67079,0.40462664 Z"
+     id="main-path"
+     sodipodi:nodetypes="ccccccccccccccc"
+     inkscape:label="main-path"
+     style="display:inline;stroke-width:0.125;stroke-dasharray:none" />
+  <path
+     d="M 897.00001,469.1841 H 671.84048 L 866.83921,356.60164 824.01556,282.40904 629.01695,394.99117 741.57559,200.0079 667.38225,157.1597 554.82362,352.1426 V 127 H 469.17266 V 352.16413 L 356.57428,157.1597 282.4048,199.98638 394.9835,394.96959 199.98451,282.40904 157.15896,356.58007 352.15807,469.16098 H 127.00001 v 85.65483 H 352.13648 L 157.15895,667.39749 199.98439,741.59095 394.96191,629.03227 282.38336,824.01171 356.57428,866.83907 469.15334,671.83652 V 897 h 85.65097 V 671.85586 L 667.36293,866.83907 741.55246,824.01171 628.97454,629.00914 823.97327,741.59095 866.80072,667.39749 671.82129,554.83503 H 896.95392 V 469.1841 Z M 511.99997,628.4894 c -64.58363,0 -116.93062,-52.34458 -116.93062,-116.9322 0,-64.58372 52.34699,-116.93255 116.93062,-116.93255 64.58378,0 116.92836,52.34883 116.92836,116.93255 0,64.58762 -52.34458,116.9322 -116.92836,116.9322 z"
+     fill="#000001"
+     id="secondary-path"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:38.5;stroke-dasharray:none"
+     inkscape:label="secondary-path"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccsssss" />
 </svg>
