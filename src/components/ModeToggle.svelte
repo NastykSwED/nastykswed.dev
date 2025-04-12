@@ -7,6 +7,7 @@
 
 <Button
 	title="Change theme"
+  aria-label="Change theme"
 	size="icon"
 	variant="ghost"
 	on:click={toggleMode}
